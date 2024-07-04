@@ -1,4 +1,4 @@
-## Hi there 👋
+## ## Hey there, Buddy!👋
 ![regular-show-rigby](https://github.com/Joy-024/Joy-024/assets/162464115/bc0c68d9-c5db-4855-9c2d-629f2423473c)
 
 <!--
