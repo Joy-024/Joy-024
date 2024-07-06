@@ -1,6 +1,10 @@
 ##                                  Hey there, Buddy!👋 
 ![regular-show-rigby](https://github.com/Joy-024/Joy-024/assets/162464115/bc0c68d9-c5db-4855-9c2d-629f2423473c)
 
+### Something about me?
+
+I am a Venezuelan boy who is trying to learn programming. I know it is not easy but I want to achieve it. In a technological world that always advances. There is always free time to fight for your goals. Let's work and learn without forgetting our roots of course!!
+
 <!--
 **Joy-024/Joy-024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
