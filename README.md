@@ -1,15 +1,25 @@
 ##    Hey there, Buddy!  😎
 
+
+
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhjdXUwaWt3bWZkeTNtN3JjYTBwb3h3M3FtcWhwdmN4MXZqN2VscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hqs5IXmeIRFe6UlQa/giphy.webp" />
 </div>
+
+
 
 
 #### Something about me?
 
 
 
-I am a Venezuelan boy who is trying to learn programming. I know it is not easy but I want to achieve it. In a technological world that always advances. There is always free time to fight for your goals. Let's work and learn without forgetting our roots of course!!
+
+In a technological world that always advances. I am a Venezuelan guy who is learning programming. I know it is not easy but I want to achieve it. Now I live in Brazil, I speak Portuguese and a little English. There is always free time to fight for your goals. Let's work and learn without forgetting our roots of course!!
+
+
+
+
 
 #### find me!!
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/joy-or-87b52a301/)
@@ -24,6 +34,12 @@ I am a Venezuelan boy who is trying to learn programming. I know it is not easy 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+|                            |                        |
+
+
+
 
 #### Back to Work!! 🙋‍♂️
 
