@@ -23,7 +23,7 @@ In a technological world that always advances. I am a Venezuelan guy who is lear
 
 #### find me!!
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/joy-or-87b52a301/)
-[(https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iJoy024)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iJoy024)
 
 
 ### The technologies that I have mastered so far!!
