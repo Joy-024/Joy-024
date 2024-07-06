@@ -1,6 +1,6 @@
 ##                                  Hey there, Buddy!👋 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif](https://giphy.com/embed/12XxYnYLMEn6yA)" width="200"/>
 </div>
 
 ### Something about me?
@@ -8,8 +8,8 @@
 I am a Venezuelan boy who is trying to learn programming. I know it is not easy but I want to achieve it. In a technological world that always advances. There is always free time to fight for your goals. Let's work and learn without forgetting our roots of course!!
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://x.com/iJoy024)
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/joy-or-87b52a301/)
+[<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://x.com/iJoy024)
 
 
 <!--
