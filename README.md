@@ -1,9 +1,16 @@
 ##                                  Hey there, Buddy!👋 
-![regular-show-rigby](https://github.com/Joy-024/Joy-024/assets/162464115/bc0c68d9-c5db-4855-9c2d-629f2423473c)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 
 ### Something about me?
 
 I am a Venezuelan boy who is trying to learn programming. I know it is not easy but I want to achieve it. In a technological world that always advances. There is always free time to fight for your goals. Let's work and learn without forgetting our roots of course!!
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://x.com/iJoy024)
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
 
 <!--
 **Joy-024/Joy-024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
