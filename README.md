@@ -1,6 +1,6 @@
 ##                                  Hey there, Buddy!👋 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif](https://giphy.com/embed/12XxYnYLMEn6yA)" width="200"/>
+  <img src="https://giphy.com/embed/12XxYnYLMEn6yA"/>
 </div>
 
 ### Something about me?
