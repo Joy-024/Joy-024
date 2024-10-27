@@ -14,11 +14,7 @@
 
 
 
-
-In a technological world that always advances. I am a Venezuelan guy who is learning programming. I know it is not easy but I want to achieve it. Now I live in Brazil, I speak Portuguese and a little English. There is always free time to fight for your goals. Let's work and learn without forgetting our roots of course!!
-
-
-
+I am a Venezuelan and I am learning programming. I now live in Brazil, I speak Portuguese and a little English. I am very interested in technology and how some things work. I hope to work in what I like. Greetings
 
 
 #### find me!!
